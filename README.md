@@ -1,11 +1,3 @@
-```
- _______________ 
-< Hi there 🖖 >
- --------------- 
-        \   ^__^
-         \  (**)\_______
-            (__)\       )\/\
-             U  ||----w |
-                ||     ||
-
-```
+*Alright, people. Move along.*<br />
+*There's nothing to see here.*
+![](assets/nothing-to-see-here.jpg)
